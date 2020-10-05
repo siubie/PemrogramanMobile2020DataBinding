@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DataBindingJava</string>
+    <string-array name="jurusan">
+        <item>Akuntansi</item>
+        <item>Administrasi Niaga</item>
+        <item>Teknik Sipil</item>
+        <item>Teknik Informatika</item>
+        <item>Teknik Mesin</item>
+    </string-array>
+</resources>
